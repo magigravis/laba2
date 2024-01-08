@@ -1,2 +1,2 @@
-# laba2
+# laba2.io
 web project
